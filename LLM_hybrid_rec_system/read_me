@@ -1,1 +1,1 @@
-
+This project highlights a hybrid recommender algorithm (ALS + content-based filtering). A locally operating LLM (Ollama gemma 3) was integrated to help with user explanations.
